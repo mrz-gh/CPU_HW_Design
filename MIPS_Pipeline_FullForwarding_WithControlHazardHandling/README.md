@@ -39,7 +39,7 @@ To get started with the project, clone the repository and navigate to the projec
 
 ```sh
 git clone <repository-url>
-cd ./HW/sim
+cd ./MIPS_Pipeline_FullForwarding_WithControlHazardHandling/sim
 make 
 ```
 
