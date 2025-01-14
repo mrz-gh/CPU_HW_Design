@@ -28,3 +28,4 @@ This is the repository of
 
 
 
+## This project has been tested on Altera (Intel) FPGAs using Quartus software. 
