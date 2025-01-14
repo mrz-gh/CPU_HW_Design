@@ -1,0 +1,12 @@
+/docs/*
+!/docs/ProjectReport/
+/docs/ProjectReport/*
+!/docs/ProjectReport/Photos/
+/docs/ProjectReport/Photos/*
+!/docs/ProjectReport/Photos/image.png
+
+HW/sim
+!HW/sim/datamemory.txt
+!HW/sim/instructionmemory.txt
+!HW/sim/Makefile
+!HW/sim/wave.do
